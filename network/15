@@ -1,0 +1,5 @@
+put 46.19.122.85 intra.42.fr into /etc/hosts
+
+echo -e "46.19.122.85\tintra.42.fr" >> /etc/hosts
+
+This need permission
